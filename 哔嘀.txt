@@ -1,7 +1,7 @@
 ﻿// 修复错误的"日本番剧" 类别
 {
   "name": "哔嘀影视",
-  "url": "https://bdys01.com/",
+  "url": "https://bidiys.cc/",
   "User": "User-Agent:Dart/2.14 (dart:io)",
   "shouye": "1",
 
